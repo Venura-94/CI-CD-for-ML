@@ -30,9 +30,12 @@ hf-login:
 	huggingface-cli login --token $(HF) --add-to-git-credential
 
 push-hub: 
-	huggingface-cli upload TMSV/Drug-Classification ./App --repo-type=space --commit-message="Sync App files"
-	huggingface-cli upload TMSV/Drug-Classification ./Model --repo-type=space --commit-message="Sync Model"
-	huggingface-cli upload TMSV/Drug-Classification ./Results --repo-type=space --commit-message="Sync Model"
+   echo "Current Directory: $(pwd)"
+   echo "Contents of Current Directory: $(ls)"
+   huggingface-cli upload TMSV/Drug-Classification ./ --repo-type=space --commit-message="Sync App files"
+   huggingface-cli upload TMSV/Drug-Classification ./Model /Model --repo-type=space --commit-message="Sync Model"
+   huggingface-cli upload TMSV/Drug-Classification ./Results /Metrics --repo-type=space --commit-message="Sync Model"
+
 
 deploy: hf-login push-hub
 
