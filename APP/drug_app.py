@@ -42,7 +42,7 @@ examples = [
 
 title = "Drug Classification"
 description = "Enter the details to correctly identify Drug type?"
-article = "Thanks to the documentation guide **[of Abid Ali Awan](https://www.datacamp.com/portfolio/kingabzpro)**. It teaches how to automate training, evaluation, and deployment of models to Hugging Face using GitHub Actions."
+article = "Thanks to the documentation guide **[of Abid Ali Awan](https://www.datacamp.com/portfolio/kingabzpro)**.
 
 
 gr.Interface(
