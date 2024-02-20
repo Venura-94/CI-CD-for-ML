@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 Accuracy = 0.98, F1 Score = 0.93
+=======
+Accuracy = 0.97, F1 Score = 0.94
+>>>>>>> feca31fb49dc1b0b5b2bcb122c94a58cb71c3640
