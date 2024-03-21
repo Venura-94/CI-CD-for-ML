@@ -15,3 +15,13 @@ CI/CD, short for Continuous Integration and Continuous Development, through GitH
 In the domain of DevOps, proficiency in CI/CD equates to possessing a transformative superpower that enhances the development journey. I encourage fellow ML enthusiasts to explore the advantages of CI/CD, making their projects efficient, scalable, and production-ready.
 
 To dive deeper into this transformative process, I recommend implementing the Devops exercise in your GitHub repository and witnessing the magic firsthand. Cheers to all the ML enthusiasts embarking on this exhilarating journey of unraveling the mysteries of Machine Learning! 🚀🤖🥂
+
+# GitHub Actions
+![image](https://github.com/Venura-94/CI-CD-for-ML/assets/137409412/218fc1ed-b3fa-4001-bca8-4f2506c1ebf5)
+
+
+
+
+
+# Hugging Face
+![huggingface](https://github.com/Venura-94/CI-CD-for-ML/assets/137409412/ae88a435-e5fd-40ac-93e3-3600aea6d250)
