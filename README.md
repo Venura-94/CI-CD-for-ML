@@ -24,4 +24,5 @@ To dive deeper into this transformative process, I recommend implementing the De
 
 
 # Hugging Face
-![huggingface](https://github.com/Venura-94/CI-CD-for-ML/assets/137409412/ae88a435-e5fd-40ac-93e3-3600aea6d250)
+
+![hugging faceapp](https://github.com/Venura-94/CI-CD-for-ML/assets/137409412/decd4a7d-be82-460f-b5c6-723f3d764c32)
